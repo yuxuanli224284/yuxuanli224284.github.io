@@ -11,5 +11,5 @@ arxiv: https://arxiv.org/abs/2308.14737
 code: https://github.com/leonidk/fmb-plus
 # website: https://leonidk.github.io/fmb-plus
 ---
-we propose Time-Weighted Contrastive Reward
+We propose Time-Weighted Contrastive Reward
 Learning (TW-CRL), an Inverse Reinforcement Learning framework that leverages both successful and failed demonstrations along with the temporal information within them.
