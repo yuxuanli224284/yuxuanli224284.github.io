@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "TW-CRL: Time-Weighted Contrastive Reward Learning for Efficient Inverse Reinforcement Learning"
+date:   2025-04-07 23:58:00 +00:00
+image: /images/TW-CRL.jpg
+categories: research
+author: "Yuxuan Li"
+authors: "<strong>Yuxuan Li</strong>, Ning Yang, Stephen Xia"
+venue: "arXiv"
+arxiv: https://arxiv.org/abs/2308.14737
+code: https://github.com/leonidk/fmb-plus
+# website: https://leonidk.github.io/fmb-plus
+---
+we propose Time-Weighted Contrastive Reward
+Learning (TW-CRL), an Inverse Reinforcement Learning framework that leverages both successful and failed demonstrations along with the temporal information within them.
