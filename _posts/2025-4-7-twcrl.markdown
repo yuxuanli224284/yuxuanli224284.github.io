@@ -7,8 +7,8 @@ categories: research
 author: "Yuxuan Li"
 authors: "<strong>Yuxuan Li</strong>, Ning Yang, Stephen Xia"
 venue: "arXiv"
-arxiv: https://arxiv.org/abs/2308.14737
-code: https://github.com/leonidk/fmb-plus
+arxiv: https://arxiv.org/abs/2504.05585
+code: https://github.com/yuxuanli224284/TW-CRL
 # website: https://leonidk.github.io/fmb-plus
 ---
 We propose Time-Weighted Contrastive Reward
