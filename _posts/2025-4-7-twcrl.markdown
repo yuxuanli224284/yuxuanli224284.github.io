@@ -6,7 +6,7 @@ image: /images/TW-CRL.jpg
 categories: research
 author: "Yuxuan Li"
 authors: "<strong>Yuxuan Li</strong>, Yicheng Gao, Ning Yang, Stephen Xia"
-venue: "Conference on Artificial Intelligence, AAAI 2026 (<strong>Oral</strong>)"
+venue: "AAAI Conference on Artificial Intelligence, AAAI 2026 (<strong>Oral</strong>)"
 arxiv: https://arxiv.org/abs/2504.05585
 code: https://github.com/yuxuanli224284/TW-CRL
 # website: https://leonidk.github.io/fmb-plus
