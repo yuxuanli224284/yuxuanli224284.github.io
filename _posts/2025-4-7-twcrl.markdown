@@ -5,7 +5,7 @@ date:   2025-04-07 23:58:00 +00:00
 image: /images/TW-CRL.jpg
 categories: research
 author: "Yuxuan Li"
-authors: "<strong>Yuxuan Li</strong>, Ning Yang, Stephen Xia"
+authors: "<strong>Yuxuan Li</strong>, Yicheng Gao, Ning Yang, Stephen Xia"
 venue: "arXiv"
 arxiv: https://arxiv.org/abs/2504.05585
 code: https://github.com/yuxuanli224284/TW-CRL
